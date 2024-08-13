@@ -1,0 +1,21 @@
+[
+    {
+        "id": 1,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG1UHXCzTgM-EJHhS0-tBJdH4dDGvRH2IVpQ&s",
+        "title": "LUXURY HOUSE",
+        "price": 400000
+    },
+    {
+        "id": 2,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMdXmFCfb8OnorEVqZSemYUcdXzO6w2c4L1g&s",
+        "title": "MILL HOUSE",
+        "price": 500000
+    },
+    {
+        "id": 3,
+        "image": "https://d2fgwbymbvlegs.cloudfront.net/articles/coach-house-insurance/coach-house-medium.jpg",
+        "title": "COACH HOUSE",
+        "price": 200000
+    }
+    
+]
